@@ -4,11 +4,11 @@ Docker image that just contains [netlify-cli](https://www.npmjs.com/package/netl
 
 Can be used in CI environments to e.g. deploy to Netlify.
 
-TODO: Describe tags
+This image's tags match the netlify-cli npm package's tags.
 
 Links:
 
-- [Docker Hub](TODO)
+- [sebastianseilund/netlify-cli on Docker Hub](https://hub.docker.com/r/sebastianseilund/netlify-cli)
 
 ## Example usage
 

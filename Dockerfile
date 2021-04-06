@@ -1,5 +1,5 @@
-FROM node:10.15-alpine
+FROM node:15.13-alpine
 
-RUN npm install -g netlify-cli@2.9.1
+RUN npm install -g netlify-cli@3.15.1
 
 ENTRYPOINT ["netlify"]
